@@ -4,7 +4,7 @@
 <br>
 
 
-<p><img align="right" src="" alt="game-dvp" /></p>
+<p><img align="right" src="https://github.com/ale4287/ale4287/blob/main/shutterstock_1209178567_17fafc5540.webp" alt="game-dvp" width="500" height="300"/></p>
 
 
 - 🌱 My goal is to learn the fundamentals of video game development, including game design, programming, and art, in order to create my own simple game in the next year. I want to explore the different platforms and technologies available for video game development and apply what I have learned to create a unique and fun interactive experience for players.
